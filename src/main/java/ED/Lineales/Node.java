@@ -1,5 +1,5 @@
 
-package ED;
+package ED.Lineales;
 
 
 public class Node <J>{

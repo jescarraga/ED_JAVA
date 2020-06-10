@@ -1,6 +1,7 @@
 
-package ED;
+package ED.Lineales;
 
+import ED.Lineales.LinearList;
 import java.util.Iterator;
 
 

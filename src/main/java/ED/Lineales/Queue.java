@@ -1,5 +1,7 @@
 
-package ED;
+package ED.Lineales;
+
+import ED.Lineales.Node;
 
 public class Queue <J>{
     private Node head;
