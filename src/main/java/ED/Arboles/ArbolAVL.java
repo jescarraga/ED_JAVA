@@ -2,6 +2,8 @@
 package ED.Arboles;
 import ED.Arboles.NodoAVL;
 
+//ya revisado
+
 public class ArbolAVL <J extends Comparable<? super J>> {
     
     NodoAVL raiz;
